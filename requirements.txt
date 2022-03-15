@@ -1,0 +1,3 @@
+dicomweb-client
+pydicom
+requests
