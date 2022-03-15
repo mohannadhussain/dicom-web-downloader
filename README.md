@@ -17,7 +17,7 @@ Update the following variables:
 * (Optional) `sleepInterval` If you need to throttle retrieval requests to minimize chances of rejected requests. In seconds.
 
 ## 2) Install dependencies
-`pip3 install DICOMwebClient`
+`pip3 install -r requirements.txt`
 
 ## 3) Run
 `python3 main.py`
